@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate full Stack Web developer from India.<br>console.log("Hello Coder")
+A passionate Full Stack Web Developer from India.<br>console.log("Hello Coder")
 
 
 ## 🌐 Socials:
