@@ -23,8 +23,8 @@ Hello stranger! my name is Sonia Diwedi and I am a Full Stack Developer, passion
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=soniadiwedi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniadiwedi&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <a><img alt="Sonia Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=soniadiwedi&theme=react-dark&hide_border=true" /></a>
 
 ---
 
