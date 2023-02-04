@@ -24,5 +24,18 @@ A passionate Full Stack Web Developer from India.<br>console.log("Hello Coder")
 
 ---
 [![](https://visitcount.itsvg.in/api?id=soniadiwedi&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+  <p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
+
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<span align="left">
+  <a href="https://www.linkedin.com/in/sonia-diwedi-b15788230/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a  href="mailto:devn5900@gmail.com" ><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://soniadiwedi.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
+</span>
+<br />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
