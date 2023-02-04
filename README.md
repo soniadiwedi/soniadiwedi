@@ -28,11 +28,6 @@ Hello stranger! my name is Sonia Diwedi and I am a Full Stack Developer, passion
 
 ---
 
-  
-  <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
-</p>
-
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <span align="left">
   <a href="https://www.linkedin.com/in/sonia-diwedi-b15788230/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
