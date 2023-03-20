@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.linkedin.com/in/vivek-dhiman-aa3749242/"> Sonia Diwedi 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  Sonia Diwedi 💻</a>!
 </h2>
 A passionate Full Stack Web Developer from India.<br>
 Hello stranger! my name is Sonia Diwedi and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
