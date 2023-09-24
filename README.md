@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://www.linkedin.com/in/sonia-diwedi-b15788230/"> Sonia Diwedi 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> , I'm <a href="https://www.linkedin.com/in/sonia-diwedi-b15788230/"> Sonia Diwedi 💻</a>!
 </h2>
 Aspiring MERN Developer 
 A passionate Full Stack Web Developer from India.<br>
